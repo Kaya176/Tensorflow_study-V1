@@ -5,12 +5,19 @@
 
 
 목차
+
 1. linear Regression
+
 2. Logistic (Regression) Classification
+
 3.Softmax Regression (Multinomial Logistic Regression)
+
 4.Basic of Deep learning
+
 5.Neural Network 1: XOR 문제와 학습방법, Backpropagation
+
 6.Convolutional Neural Networks
+
 7.Recurrent Neural Network
 
 -----------------------------------------------------------------------------
